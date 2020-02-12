@@ -1,3 +1,3 @@
 # sunset
 
-Borrow from   https://github.com/foopod/sunset
+Borrowed from   https://github.com/foopod/sunset
